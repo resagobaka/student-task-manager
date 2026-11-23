@@ -7,5 +7,6 @@
 // Mission 3: Create and work on a branch 
 Task categories
 
-i changed this line to create a merge conflict
+i am changing this line in master to create a merge conflict
+
 Home-tasks category
